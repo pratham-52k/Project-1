@@ -32,7 +32,7 @@ python scanner.py
 
 ## Author
 
-Created as part of a cybersecurity project.
+© Pratham Kaushik 
 
 ## License
 
